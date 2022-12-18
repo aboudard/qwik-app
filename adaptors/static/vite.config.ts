@@ -12,7 +12,7 @@ export default extendConfig(baseConfig, () => {
     },
     plugins: [
       staticAdaptor({
-        origin: 'https://yoursite.qwik.dev',
+        origin: 'https://aboudard.github.io/qwik-app/',
       }),
     ],
   };

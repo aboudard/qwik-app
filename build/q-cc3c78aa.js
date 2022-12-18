@@ -1,0 +1,1 @@
+import{K as i}from"./q-1b19872d.js";const r=()=>i("div",{class:"bg-light p-5 rounded",children:i("h1",{children:["Welcome to Qwik ",i("span",{class:"lightning",children:"\u26A1\uFE0F"})]})});export{r as s_xYL1qOwPyDI};
